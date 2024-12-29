@@ -35,7 +35,7 @@ def quicksort_with_comparisons(players):
 
 
 if __name__ == "__main__":
-    # List of 75 wide receivers (replace with real names or data)
+    # List of 60 wide receivers (replace with real names or data)
     wide_receivers = [
         JaMarr Chase, CeeDee Lamb, Amon-Ra St. Brown, Malik Nabers, Jaxon Smith-Njigba,        
         Justin Jefferson, Garrett Wilson, D.J. Moore, Drake London, Puka Nacua,                
@@ -51,7 +51,7 @@ if __name__ == "__main__":
         Hollywood Brown, Brandon Aiyuk, Chris Olave, Rashee Rice, Rashid Shaheed
     ]
     
-    print("Ranking the top 75 NFL wide receivers...")
+    print("Ranking the top 60 NFL wide receivers...")
     rankings = quicksort_with_comparisons(wide_receivers)
     
     print("\nFinal Rankings:")
