@@ -37,18 +37,18 @@ def quicksort_with_comparisons(players):
 if __name__ == "__main__":
     # List of 60 wide receivers (replace with real names or data)
     wide_receivers = [
-        JaMarr Chase, CeeDee Lamb, Amon-Ra St. Brown, Malik Nabers, Jaxon Smith-Njigba,        
-        Justin Jefferson, Garrett Wilson, D.J. Moore, Drake London, Puka Nacua,                
-        WanDale Robinson, Ladd McConkey, Courtland Sutton, Davante Adams, Zay Flowers,              
-        Terry McLaurin, Jakobi Meyers, Khalil Shakir, Brian Thomas, Jerry Jeudy,               
-        Tyreek Hill, Tee Higgins, Keenan Allen, Cooper Kupp, A.J. Brown,                
-        Nico Collins, Demario Douglas, Jauan Jennings, D.K. Metcalf, Darnell Mooney,            
-        DeVonta Smith, Josh Downs, Xavier Worthy, George Pickens, Mike Evans,                  
-        Marvin Harrison Jr., Jordan Addison, Calvin Ridley, DeAndre Hopkins, Michael Pittman Jr.,      
-        Jaylen Waddle, Rome Odunze, Jayden Reed, Tank Dell, Chris Godwin,              
-        Deebo Samuel, Stefon Diggs, Tyler Lockett, Jameson Williams, Quentin Johnston,                           
-        Amari Cooper, Rashod Bateman, Romeo Doubs, Darius Slayton, Adam Thielen,
-        Hollywood Brown, Brandon Aiyuk, Chris Olave, Rashee Rice, Rashid Shaheed
+    "JaMarr Chase", "CeeDee Lamb", "Amon-Ra St. Brown", "Malik Nabers", "Jaxon Smith-Njigba",
+    "Justin Jefferson", "Garrett Wilson", "D.J. Moore", "Drake London", "Puka Nacua",
+    "WanDale Robinson", "Ladd McConkey", "Courtland Sutton", "Davante Adams", "Zay Flowers",
+    "Terry McLaurin", "Jakobi Meyers", "Khalil Shakir", "Brian Thomas", "Jerry Jeudy",
+    "Tyreek Hill", "Tee Higgins", "Keenan Allen", "Cooper Kupp", "A.J. Brown",
+    "Nico Collins", "Demario Douglas", "Jauan Jennings", "D.K. Metcalf", "Darnell Mooney",
+    "DeVonta Smith", "Josh Downs", "Xavier Worthy", "George Pickens", "Mike Evans",
+    "Marvin Harrison Jr.", "Jordan Addison", "Calvin Ridley", "DeAndre Hopkins", "Michael Pittman Jr.",
+    "Jaylen Waddle", "Rome Odunze", "Jayden Reed", "Tank Dell", "Chris Godwin",
+    "Deebo Samuel", "Stefon Diggs", "Tyler Lockett", "Jameson Williams", "Quentin Johnston",
+    "Amari Cooper", "Rashod Bateman", "Romeo Doubs", "Darius Slayton", "Adam Thielen",
+    "Hollywood Brown", "Brandon Aiyuk", "Chris Olave", "Rashee Rice", "Rashid Shaheed"
     ]
     
     print("Ranking the top 60 NFL wide receivers...")
